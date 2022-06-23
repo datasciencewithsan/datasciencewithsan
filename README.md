@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sangeet. You can call me San
+- 👀 I’m interested in Data Science, Machine Leaning, Deep Learning, Artificial Intelligence (and Travelling)
+- 🌱 I’m currently learning whatever is latest in the Machine Learning world
+- 💞️ I’m looking to collaborate on Data Science and analysis projects.
+- 📫 You can reach me at datasciencewithsan@gmail.com
